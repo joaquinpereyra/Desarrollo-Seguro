@@ -1,4 +1,3 @@
-![vb start](https://github.com/joaquinpereyra/Desarrollo-Seguro/assets/42189479/e85beb60-3a1d-44cc-b167-4f07f932a585)![hardware](https://github.com/joaquinpereyra/Desarrollo-Seguro/assets/42189479/96926121-ece8-4146-b0d6-3a261c91a004)
 # Implementación y Configuración de un Ambiente de Prueba de Aplicaciones
 
 En este documento se describe el proceso de implementación y configuración de un ambiente destinado a la prueba de aplicaciones utilizando la distribución Kali Linux en una máquina virtual, así como la instalación de herramientas como ZAP (OWASP Zed Attack Proxy) y Docker para realizar pruebas de seguridad y desarrollo.
