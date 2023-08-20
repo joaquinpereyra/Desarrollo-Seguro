@@ -94,7 +94,7 @@ En este documento se describe el proceso de implementación y configuración de 
    owasp-zap -h
    ```
 #### Errores
-Si aparece el sigueinte error
+Si aparece el siguiente error
 
 ![Error zap](https://github.com/joaquinpereyra/Desarrollo-Seguro/assets/42189479/c8743160-ea7f-4343-97d8-671148f52949)
 
@@ -104,6 +104,10 @@ Ejecutar los siguientes comandos:
    sudo apt upgrade
    sudo apt install zaproxy
    ```
+
+[Página oficial de ZAP](https://www.zaproxy.org/)
+[Documentación de instalación](https://www.zaproxy.org/docs/desktop/install/)
+
 
 ### Instalación de Docker
 
@@ -128,6 +132,11 @@ Ejecutar los siguientes comandos:
       ```bash
       sudo docker run -d -p 3000:3000 bkimminich/juice-shop
       ```
+[Página oficial de Docker](https://docs.docker.com/)
+[Documentación de instalación](https://www.kali.org/docs/containers/installing-docker-on-kali/)
+
+[Página oficial de OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+[Guía de ejecución de Juice Shop con Docker](https://pwning.owasp-juice.shop/part1/running.html)
 
 ## Prueba de Visualización del Tráfico en el Proxy
 
