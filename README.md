@@ -15,7 +15,9 @@ En este documento se describe el proceso de implementación y configuración de 
 2. Instalar UTM, un emulador de máquinas virtuales, desde [mac.getutm.app](https://mac.getutm.app/).
 3. Crear una nueva máquina virtual en UTM con los siguientes pasos:
    - Seleccionar "Virtualizar".
+     ![virtualizar.png](..%2F..%2F..%2F..%2FDownloads%2Fvirtualizar.png)
    - Elegir "Linux" como sistema operativo.
+   ![linux.png](..%2F..%2F..%2F..%2FDownloads%2Flinux.png)
    - Seleccionar el archivo ISO de Kali Linux previamente descargado.
    - Configurar la cantidad de RAM y CPU deseada.
    - Configurar el almacenamiento deseado.
